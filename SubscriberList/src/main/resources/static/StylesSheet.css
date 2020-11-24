@@ -1,0 +1,57 @@
+/* Style Sheet */
+a:link
+{
+  color: black;
+}
+
+.title
+{
+  border:solid;
+  font-size: 48px;
+  color: green;
+  text-align: center;
+  background: pink;
+}
+
+p {
+	color: green;
+}
+
+
+a:visited 
+{
+  color: green;
+}
+a:hover
+{
+  color: blue;
+}
+img 
+{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100px;
+}
+
+.style 
+{
+ font-size: 48ex;
+ margin: 1ex;
+ font-weight: bold;
+ text-align: center;
+ border-bottom: 0ex; 
+ padding-bottom: 0ex;
+}
+upper
+{
+ text-transform: uppercase;
+}
+lower
+{
+ text-transform: lowercase;
+}
+proper
+{
+ text-transform: capitalize;
+}
